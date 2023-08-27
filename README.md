@@ -1,4 +1,6 @@
-# LandingPageFourniture
+# Landing Page - GESTOCK-FB
+
+The website is available at the [link](https://gestock-fb.netlify.app/) : https://gestock-fb.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
